@@ -4,7 +4,7 @@ exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, Rakefile]
 permalink: pretty
 highlighter: pygments
 excerpt_separator: '<!-- more -->'
-url: 'https://auth0.com'
+url: 'luysec.github.com'
 baseurl: '/blog'
 encoding: utf-8
 only_first_p:
